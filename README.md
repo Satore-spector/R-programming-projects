@@ -2,12 +2,12 @@
 
 Welcome to my R Programming repository! This is a curated collection of basic to advanced R scripts, projects, and practices that I have picked up as a self-taught programmer through various online resources.
 
-### 🌟 What Sets This Repo Apart
+### 🤠 What Sets This Repo Apart
 Unlike standard syntax-drilling repositories, my goal here is to bridge the gap between theory and practice. **Every section aims to utilize real-world datasets** to demonstrate how R is actually applied in data analytics, statistics, and machine learning.
 
 ---
 
-## 📂 Repository Structure
+## 🗒️ Repository Structure
 
 The repository is organized logically by topic, advancing from fundamental data manipulation to complex statistical modeling.
 
@@ -48,10 +48,10 @@ To maintain a focus on practical application, the projects in this repository ut
 
 ## 🛠️ Getting Started
 
-### Prerequisites
-To run these scripts, you will need to have **R** installed. I highly recommend using **RStudio** as your IDE.
+### ❗ Prerequisites
+To run these scripts, you will need to have **R** installed. I highly recommend using **VS Code** as your IDE. I might create a structured guide for the installation of the same in the future.
 
-### Dependencies
+### ❕Dependencies
 You can install the primary packages used across this repository by running the following command in your R console:
 
 ```R
